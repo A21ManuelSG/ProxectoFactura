@@ -1,3 +1,5 @@
+package com.mycompany.proxectofactura;
+
 /**
  *
  * @author a21manuelsg
