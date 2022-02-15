@@ -2,6 +2,9 @@
  *
  * @author a21manuelsg
  */
+/**
+* Datos do artigo dunha factura
+*/
 public class ArtigoFactura {
     
     private String id;
